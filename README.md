@@ -1,6 +1,8 @@
+![RhodaDomingo](ProfilePhoto_100x100.png "Rhoda")
+
 ## Hello Fellow Homo Sapiens!
 
-I am a Graphic Designer and an aspiring Watercolor Artist. I am currently on leave busy raising a human being. This website will be revamped soon so watch out!
+I am Rhoda Domingo a Graphic Designer and an aspiring Watercolor Artist. I am currently on leave busy raising a human being. This website will be revamped soon so watch out!
 
 In the mean time, check me out on my social media accounts as I post interesting stuff.
 
