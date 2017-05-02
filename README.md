@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+## Hello Fellow Homo Sapiens!
+
+I am a Graphic Designer and an aspiring Watercolor Artist. I am currently on leave busy raising a human being. This website will be revamped soon so watch out!
+
+In the mean time, check me out on my social media accounts as I post interesting stuff.
+
+[![Facebook](facebook.png "facebook")](https://www.facebook.com/cocovanillaroad)
+[![Instagram](instagram.png "instagram")](https://www.instagram.com/cocovanillaroad)
+[![Linkedin](linkedin.png "linkedin")](https://www.linkedin.com/in/rhodagabuco/)
+[![Twitter](twitter.png "twitter")](https://twitter.com/CocoVanillaRoad)
 
 You can use the [editor on GitHub](https://github.com/cocovanillaroad/cocovanillaroad.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
